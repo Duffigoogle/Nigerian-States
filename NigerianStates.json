@@ -2,223 +2,260 @@
     {
       "state": {
         "name": "Abia State",
+        "id": 1
       }
     },
   
     {
       "state": {
         "name": "Adamawa State",
+        "id": 2
       }
     },
   
     {
       "state": {
         "name": "Akwa Ibom State",
+        "id": 3
       }
     },
   
     {
       "state": {
         "name": "Anambra State",
+        "id": 4
       }
     },
   
     {
       "state": {
         "name": "Bauchi State",
+        "id": 5
       }
     },
   
     {
       "state": {
         "name": "Bayelsa State",
+        "id": 6
       }
     },
   
     {
       "state": {
         "name": "Benue State",
+        "id": 7
       }
     },
   
     {
       "state": {
         "name": "Borno State",
+        "id": 8
       }
     },
   
     {
       "state": {
         "name": "Cross River State",
+        "id": 9
       }
     },
   
     {
       "state": {
         "name": "Delta State",
+        "id": 10
       }
     },
   
     {
       "state": {
         "name": "Ebonyi State",
+        "id": 11
       }
     },
   
     {
       "state": {
         "name": "Edo State",
+        "id": 12
       }
     },
   
     {
       "state": {
         "name": "Ekiti State",
+        "id": 13
       }
     },
   
     {
       "state": {
         "name": "Enugu State",
+        "id": 14
       }
     },
   
     {
       "state": {
         "name": "FCT",
+        "id": 15
       }
     },
   
     {
       "state": {
         "name": "Gombe State",
+        "id": 16
       }
     },
   
     {
       "state": {
         "name": "Imo State",
+        "id": 17
       }
     },
   
     {
       "state": {
         "name": "Jigawa State",
+        "id": 18
       }
     },
   
     {
       "state": {
         "name": "Kaduna State",
+        "id": 19
       }
     },
   
     {
       "state": {
         "name": "Kano State",
+        "id": 20
       }
     },
   
     {
       "state": {
         "name": "Katsina State",
+        "id": 21
       }
     },
   
     {
       "state": {
         "name": "Kebbi State",
+        "id": 22
       }
     },
   
     {
       "state": {
         "name": "Kogi State",
+        "id": 23
       }
     },
   
     {
       "state": {
         "name": "Kwara State",
+        "id": 24
       }
     },
   
     {
       "state": {
         "name": "Lagos State",
+        "id": 25
       }
     },
   
     {
       "state": {
         "name": "Nasarawa State",
+        "id": 26
       }
     },
   
     {
       "state": {
         "name": "Niger State",
+        "id": 27
       }
     },
   
     {
       "state": {
         "name": "Ogun State",
+        "id": 28
       }
     },
   
     {
       "state": {
         "name": "Ondo State",
+        "id": 29
       }
     },
   
     {
       "state": {
         "name": "Osun State",
+        "id": 30
       }
     },
   
     {
       "state": {
         "name": "Oyo State",
+        "id": 31
       }
     },
   
     {
       "state": {
         "name": "Plateau State",
+        "id": 32
       }
     },
   
     {
       "state": {
         "name": "Rivers State",
+        "id": 33
       }
     },
   
     {
       "state": {
         "name": "Sokoto State",
+        "id": 34
       }
     },
   
     {
       "state": {
         "name": "Taraba State",
+        "id": 35
       }
     },
   
     {
       "state": {
         "name": "Yobe State",
+        "id": 36
       }
     },
   
     {
       "state": {
         "name": "Zamfara State",
+        "id": 37
       }
     }
-]
+  ]
   
