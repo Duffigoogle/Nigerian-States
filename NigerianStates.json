@@ -2,6 +2,7 @@
     {
       "state": {
         "name": "Abia State",
+        "capital":"Umuahia",
         "id": 1
       }
     },
@@ -9,6 +10,7 @@
     {
       "state": {
         "name": "Adamawa State",
+        "capital":"Yola",
         "id": 2
       }
     },
@@ -16,6 +18,7 @@
     {
       "state": {
         "name": "Akwa Ibom State",
+        "capital":"Uyo",
         "id": 3
       }
     },
@@ -23,6 +26,7 @@
     {
       "state": {
         "name": "Anambra State",
+        "capital":"Awka",
         "id": 4
       }
     },
@@ -30,6 +34,7 @@
     {
       "state": {
         "name": "Bauchi State",
+        "capital":"Bauchi",
         "id": 5
       }
     },
@@ -37,6 +42,7 @@
     {
       "state": {
         "name": "Bayelsa State",
+        "capital":"Yenegoa",
         "id": 6
       }
     },
@@ -44,6 +50,7 @@
     {
       "state": {
         "name": "Benue State",
+        "capital":"Makurdi",
         "id": 7
       }
     },
@@ -51,6 +58,7 @@
     {
       "state": {
         "name": "Borno State",
+        "capital":"Maiduguri",
         "id": 8
       }
     },
@@ -58,6 +66,7 @@
     {
       "state": {
         "name": "Cross River State",
+        "capital":"Calabar",
         "id": 9
       }
     },
@@ -65,6 +74,7 @@
     {
       "state": {
         "name": "Delta State",
+        "capital":"Asaba",
         "id": 10
       }
     },
@@ -72,6 +82,7 @@
     {
       "state": {
         "name": "Ebonyi State",
+        "capital":"Abakaliki",
         "id": 11
       }
     },
@@ -79,6 +90,7 @@
     {
       "state": {
         "name": "Edo State",
+        "capital":"Benin City",
         "id": 12
       }
     },
@@ -86,6 +98,7 @@
     {
       "state": {
         "name": "Ekiti State",
+        "capital":"Ado-Ekiti",
         "id": 13
       }
     },
@@ -93,6 +106,7 @@
     {
       "state": {
         "name": "Enugu State",
+        "capital":"Enugu",
         "id": 14
       }
     },
@@ -100,6 +114,7 @@
     {
       "state": {
         "name": "FCT",
+        "capital":"Abuja",
         "id": 15
       }
     },
@@ -107,6 +122,7 @@
     {
       "state": {
         "name": "Gombe State",
+        "capital":"Gombe",
         "id": 16
       }
     },
@@ -114,6 +130,7 @@
     {
       "state": {
         "name": "Imo State",
+        "capital":"Owerri",
         "id": 17
       }
     },
@@ -121,6 +138,7 @@
     {
       "state": {
         "name": "Jigawa State",
+        "capital":"Dutse",
         "id": 18
       }
     },
@@ -128,6 +146,7 @@
     {
       "state": {
         "name": "Kaduna State",
+        "capital":"Kaduna",
         "id": 19
       }
     },
@@ -135,6 +154,7 @@
     {
       "state": {
         "name": "Kano State",
+        "capital":"Kano",
         "id": 20
       }
     },
@@ -142,6 +162,7 @@
     {
       "state": {
         "name": "Katsina State",
+        "capital":"Katsina",
         "id": 21
       }
     },
@@ -149,6 +170,7 @@
     {
       "state": {
         "name": "Kebbi State",
+        "capital":"Birni Kebbi",
         "id": 22
       }
     },
@@ -156,6 +178,7 @@
     {
       "state": {
         "name": "Kogi State",
+        "capital":"Lokoja",
         "id": 23
       }
     },
@@ -163,6 +186,7 @@
     {
       "state": {
         "name": "Kwara State",
+        "capital":"Ilorin",
         "id": 24
       }
     },
@@ -170,6 +194,7 @@
     {
       "state": {
         "name": "Lagos State",
+        "capital":"Ikeja",
         "id": 25
       }
     },
@@ -177,6 +202,7 @@
     {
       "state": {
         "name": "Nasarawa State",
+        "capital":"Lafia",
         "id": 26
       }
     },
@@ -184,6 +210,7 @@
     {
       "state": {
         "name": "Niger State",
+        "capital":"Minna",
         "id": 27
       }
     },
@@ -191,6 +218,7 @@
     {
       "state": {
         "name": "Ogun State",
+        "capital":"Abeokuta",
         "id": 28
       }
     },
@@ -198,6 +226,7 @@
     {
       "state": {
         "name": "Ondo State",
+        "capital":"Akure",
         "id": 29
       }
     },
@@ -205,6 +234,7 @@
     {
       "state": {
         "name": "Osun State",
+        "capital":"Oshogbo",
         "id": 30
       }
     },
@@ -212,6 +242,7 @@
     {
       "state": {
         "name": "Oyo State",
+        "capital":"Ibadan",
         "id": 31
       }
     },
@@ -219,6 +250,7 @@
     {
       "state": {
         "name": "Plateau State",
+        "capital":"Jos",
         "id": 32
       }
     },
@@ -226,6 +258,7 @@
     {
       "state": {
         "name": "Rivers State",
+        "capital":"Port Harcourt",
         "id": 33
       }
     },
@@ -233,6 +266,7 @@
     {
       "state": {
         "name": "Sokoto State",
+        "capital":"Sokoto",
         "id": 34
       }
     },
@@ -240,6 +274,7 @@
     {
       "state": {
         "name": "Taraba State",
+        "capital":"Jalingo",
         "id": 35
       }
     },
@@ -247,6 +282,7 @@
     {
       "state": {
         "name": "Yobe State",
+        "capital":"Damaturu",
         "id": 36
       }
     },
@@ -254,6 +290,7 @@
     {
       "state": {
         "name": "Zamfara State",
+        "capital":"Guasau",
         "id": 37
       }
     }
