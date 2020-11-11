@@ -3,6 +3,7 @@
       "state": {
         "name": "Abia State",
         "capital":"Umuahia",
+        "slogan":"God's Own State",
         "id": 1
       }
     },
@@ -11,6 +12,7 @@
       "state": {
         "name": "Adamawa State",
         "capital":"Yola",
+        "slogan":"Land of Beauty, Sunshine and Hospitality",
         "id": 2
       }
     },
@@ -19,6 +21,7 @@
       "state": {
         "name": "Akwa Ibom State",
         "capital":"Uyo",
+        "slogan":"Promised Land",
         "id": 3
       }
     },
@@ -27,6 +30,7 @@
       "state": {
         "name": "Anambra State",
         "capital":"Awka",
+        "slogan":"Light of the Nation",
         "id": 4
       }
     },
@@ -35,6 +39,7 @@
       "state": {
         "name": "Bauchi State",
         "capital":"Bauchi",
+        "slogan":"Pearl of Tourism",
         "id": 5
       }
     },
@@ -43,6 +48,7 @@
       "state": {
         "name": "Bayelsa State",
         "capital":"Yenegoa",
+        "slogan":"Glory of all Lands",
         "id": 6
       }
     },
@@ -51,6 +57,7 @@
       "state": {
         "name": "Benue State",
         "capital":"Makurdi",
+        "slogan":"Food Basket of the Nation",
         "id": 7
       }
     },
@@ -59,6 +66,7 @@
       "state": {
         "name": "Borno State",
         "capital":"Maiduguri",
+        "slogan":"Home of Peace",
         "id": 8
       }
     },
@@ -67,6 +75,7 @@
       "state": {
         "name": "Cross River State",
         "capital":"Calabar",
+        "slogan":"The People's Paradise",
         "id": 9
       }
     },
@@ -75,6 +84,7 @@
       "state": {
         "name": "Delta State",
         "capital":"Asaba",
+        "slogan":"The Finger of God",
         "id": 10
       }
     },
@@ -83,6 +93,7 @@
       "state": {
         "name": "Ebonyi State",
         "capital":"Abakaliki",
+        "slogan":"The Salt of the Nation",
         "id": 11
       }
     },
@@ -91,6 +102,7 @@
       "state": {
         "name": "Edo State",
         "capital":"Benin City",
+        "slogan":"The Heart Beat of the Nation",
         "id": 12
       }
     },
@@ -99,6 +111,7 @@
       "state": {
         "name": "Ekiti State",
         "capital":"Ado-Ekiti",
+        "slogan":"Land of Honour and Integrity",
         "id": 13
       }
     },
@@ -107,6 +120,7 @@
       "state": {
         "name": "Enugu State",
         "capital":"Enugu",
+        "slogan":"Coal City State",
         "id": 14
       }
     },
@@ -115,6 +129,7 @@
       "state": {
         "name": "FCT",
         "capital":"Abuja",
+        "slogan":"Centre of Unity",
         "id": 15
       }
     },
@@ -123,6 +138,7 @@
       "state": {
         "name": "Gombe State",
         "capital":"Gombe",
+        "slogan":"Jewel of the Savvanah",
         "id": 16
       }
     },
@@ -131,6 +147,7 @@
       "state": {
         "name": "Imo State",
         "capital":"Owerri",
+        "slogan":"Eastern Heartland",
         "id": 17
       }
     },
@@ -139,6 +156,7 @@
       "state": {
         "name": "Jigawa State",
         "capital":"Dutse",
+        "slogan":"The New World",
         "id": 18
       }
     },
@@ -147,6 +165,7 @@
       "state": {
         "name": "Kaduna State",
         "capital":"Kaduna",
+        "slogan":"Centre of Learning",
         "id": 19
       }
     },
@@ -155,6 +174,7 @@
       "state": {
         "name": "Kano State",
         "capital":"Kano",
+        "slogan":"Centre of Commerce",
         "id": 20
       }
     },
@@ -163,6 +183,7 @@
       "state": {
         "name": "Katsina State",
         "capital":"Katsina",
+        "slogan":"State of Hospitality",
         "id": 21
       }
     },
@@ -171,6 +192,7 @@
       "state": {
         "name": "Kebbi State",
         "capital":"Birni Kebbi",
+        "slogan":"Land of Equity",
         "id": 22
       }
     },
@@ -179,6 +201,7 @@
       "state": {
         "name": "Kogi State",
         "capital":"Lokoja",
+        "slogan":"The Confluence State",
         "id": 23
       }
     },
@@ -187,6 +210,7 @@
       "state": {
         "name": "Kwara State",
         "capital":"Ilorin",
+        "slogan":"The State of Harmony",
         "id": 24
       }
     },
@@ -195,6 +219,7 @@
       "state": {
         "name": "Lagos State",
         "capital":"Ikeja",
+        "slogan":"Centre of Excellence",
         "id": 25
       }
     },
@@ -203,6 +228,7 @@
       "state": {
         "name": "Nasarawa State",
         "capital":"Lafia",
+        "slogan":"The Home of Solid Minerals",
         "id": 26
       }
     },
@@ -211,6 +237,7 @@
       "state": {
         "name": "Niger State",
         "capital":"Minna",
+        "slogan":"The Power State",
         "id": 27
       }
     },
@@ -219,6 +246,7 @@
       "state": {
         "name": "Ogun State",
         "capital":"Abeokuta",
+        "slogan":"The Gateway State",
         "id": 28
       }
     },
@@ -227,6 +255,7 @@
       "state": {
         "name": "Ondo State",
         "capital":"Akure",
+        "slogan":"The Sunshine State",
         "id": 29
       }
     },
@@ -235,6 +264,7 @@
       "state": {
         "name": "Osun State",
         "capital":"Oshogbo",
+        "slogan":"Land of Virtue",
         "id": 30
       }
     },
@@ -243,6 +273,7 @@
       "state": {
         "name": "Oyo State",
         "capital":"Ibadan",
+        "slogan":"The Pace Setter State",
         "id": 31
       }
     },
@@ -251,6 +282,7 @@
       "state": {
         "name": "Plateau State",
         "capital":"Jos",
+        "slogan":"Home of Peace and Tourism",
         "id": 32
       }
     },
@@ -259,6 +291,7 @@
       "state": {
         "name": "Rivers State",
         "capital":"Port Harcourt",
+        "slogan":"Treasure Base of the Nation",
         "id": 33
       }
     },
@@ -267,6 +300,7 @@
       "state": {
         "name": "Sokoto State",
         "capital":"Sokoto",
+        "slogan":"Seat of Caliphate",
         "id": 34
       }
     },
@@ -275,6 +309,7 @@
       "state": {
         "name": "Taraba State",
         "capital":"Jalingo",
+        "slogan":"Nature's Gift to the Nation",
         "id": 35
       }
     },
@@ -283,6 +318,7 @@
       "state": {
         "name": "Yobe State",
         "capital":"Damaturu",
+        "slogan":"Pride of the Sahel",
         "id": 36
       }
     },
@@ -291,6 +327,7 @@
       "state": {
         "name": "Zamfara State",
         "capital":"Guasau",
+        "slogan":"Farming is our Pride",
         "id": 37
       }
     }
