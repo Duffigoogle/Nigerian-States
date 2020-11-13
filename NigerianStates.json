@@ -3,6 +3,7 @@
       "state": {
         "name": "Abia State",
         "capital":"Umuahia",
+        "state code": "AB",
         "slogan":"God's Own State",
         "id": 1
       }
@@ -12,6 +13,7 @@
       "state": {
         "name": "Adamawa State",
         "capital":"Yola",
+        "state code": "AD",
         "slogan":"Land of Beauty, Sunshine and Hospitality",
         "id": 2
       }
@@ -21,6 +23,7 @@
       "state": {
         "name": "Akwa Ibom State",
         "capital":"Uyo",
+        "state code": "AK",
         "slogan":"Promised Land",
         "id": 3
       }
@@ -30,6 +33,7 @@
       "state": {
         "name": "Anambra State",
         "capital":"Awka",
+        "state code": "AN",
         "slogan":"Light of the Nation",
         "id": 4
       }
@@ -39,6 +43,7 @@
       "state": {
         "name": "Bauchi State",
         "capital":"Bauchi",
+        "state code": "BA",
         "slogan":"Pearl of Tourism",
         "id": 5
       }
@@ -48,6 +53,7 @@
       "state": {
         "name": "Bayelsa State",
         "capital":"Yenegoa",
+        "state code": "BY",
         "slogan":"Glory of all Lands",
         "id": 6
       }
@@ -57,6 +63,7 @@
       "state": {
         "name": "Benue State",
         "capital":"Makurdi",
+        "state code": "BE",
         "slogan":"Food Basket of the Nation",
         "id": 7
       }
@@ -66,6 +73,7 @@
       "state": {
         "name": "Borno State",
         "capital":"Maiduguri",
+        "state code": "BO",
         "slogan":"Home of Peace",
         "id": 8
       }
@@ -75,6 +83,7 @@
       "state": {
         "name": "Cross River State",
         "capital":"Calabar",
+        "state code": "CR",
         "slogan":"The People's Paradise",
         "id": 9
       }
@@ -84,6 +93,7 @@
       "state": {
         "name": "Delta State",
         "capital":"Asaba",
+        "state code": "DE",
         "slogan":"The Finger of God",
         "id": 10
       }
@@ -93,6 +103,7 @@
       "state": {
         "name": "Ebonyi State",
         "capital":"Abakaliki",
+        "state code": "EB",
         "slogan":"The Salt of the Nation",
         "id": 11
       }
@@ -102,6 +113,7 @@
       "state": {
         "name": "Edo State",
         "capital":"Benin City",
+        "state code": "ED",
         "slogan":"The Heart Beat of the Nation",
         "id": 12
       }
@@ -111,6 +123,7 @@
       "state": {
         "name": "Ekiti State",
         "capital":"Ado-Ekiti",
+        "state code": "EK",
         "slogan":"Land of Honour and Integrity",
         "id": 13
       }
@@ -120,6 +133,7 @@
       "state": {
         "name": "Enugu State",
         "capital":"Enugu",
+        "state code": "EN",
         "slogan":"Coal City State",
         "id": 14
       }
@@ -129,6 +143,7 @@
       "state": {
         "name": "FCT",
         "capital":"Abuja",
+        "state code": "FC",
         "slogan":"Centre of Unity",
         "id": 15
       }
@@ -138,6 +153,7 @@
       "state": {
         "name": "Gombe State",
         "capital":"Gombe",
+        "state code": "GO",
         "slogan":"Jewel of the Savvanah",
         "id": 16
       }
@@ -147,6 +163,7 @@
       "state": {
         "name": "Imo State",
         "capital":"Owerri",
+        "state code": "IM",
         "slogan":"Eastern Heartland",
         "id": 17
       }
@@ -156,6 +173,7 @@
       "state": {
         "name": "Jigawa State",
         "capital":"Dutse",
+        "state code": "JI",
         "slogan":"The New World",
         "id": 18
       }
@@ -165,6 +183,7 @@
       "state": {
         "name": "Kaduna State",
         "capital":"Kaduna",
+        "state code": "KD",
         "slogan":"Centre of Learning",
         "id": 19
       }
@@ -174,6 +193,7 @@
       "state": {
         "name": "Kano State",
         "capital":"Kano",
+        "state code": "KN",
         "slogan":"Centre of Commerce",
         "id": 20
       }
@@ -183,6 +203,7 @@
       "state": {
         "name": "Katsina State",
         "capital":"Katsina",
+        "state code": "KT",
         "slogan":"State of Hospitality",
         "id": 21
       }
@@ -192,6 +213,7 @@
       "state": {
         "name": "Kebbi State",
         "capital":"Birni Kebbi",
+        "state code": "KE",
         "slogan":"Land of Equity",
         "id": 22
       }
@@ -201,6 +223,7 @@
       "state": {
         "name": "Kogi State",
         "capital":"Lokoja",
+        "state code": "KO",
         "slogan":"The Confluence State",
         "id": 23
       }
@@ -210,6 +233,7 @@
       "state": {
         "name": "Kwara State",
         "capital":"Ilorin",
+        "state code": "KW",
         "slogan":"The State of Harmony",
         "id": 24
       }
@@ -219,6 +243,7 @@
       "state": {
         "name": "Lagos State",
         "capital":"Ikeja",
+        "state code": "LA",
         "slogan":"Centre of Excellence",
         "id": 25
       }
@@ -228,6 +253,7 @@
       "state": {
         "name": "Nasarawa State",
         "capital":"Lafia",
+        "state code": "NA",
         "slogan":"The Home of Solid Minerals",
         "id": 26
       }
@@ -237,6 +263,7 @@
       "state": {
         "name": "Niger State",
         "capital":"Minna",
+        "state code": "NI",
         "slogan":"The Power State",
         "id": 27
       }
@@ -246,6 +273,7 @@
       "state": {
         "name": "Ogun State",
         "capital":"Abeokuta",
+        "state code": "OG",
         "slogan":"The Gateway State",
         "id": 28
       }
@@ -255,6 +283,7 @@
       "state": {
         "name": "Ondo State",
         "capital":"Akure",
+        "state code": "ON",
         "slogan":"The Sunshine State",
         "id": 29
       }
@@ -264,6 +293,7 @@
       "state": {
         "name": "Osun State",
         "capital":"Oshogbo",
+        "state code": "OS",
         "slogan":"Land of Virtue",
         "id": 30
       }
@@ -273,6 +303,7 @@
       "state": {
         "name": "Oyo State",
         "capital":"Ibadan",
+        "state code": "OY",
         "slogan":"The Pace Setter State",
         "id": 31
       }
@@ -282,6 +313,7 @@
       "state": {
         "name": "Plateau State",
         "capital":"Jos",
+        "state code": "PL",
         "slogan":"Home of Peace and Tourism",
         "id": 32
       }
@@ -291,6 +323,7 @@
       "state": {
         "name": "Rivers State",
         "capital":"Port Harcourt",
+        "state code": "RI",
         "slogan":"Treasure Base of the Nation",
         "id": 33
       }
@@ -300,6 +333,7 @@
       "state": {
         "name": "Sokoto State",
         "capital":"Sokoto",
+        "state code": "SO",
         "slogan":"Seat of Caliphate",
         "id": 34
       }
@@ -309,6 +343,7 @@
       "state": {
         "name": "Taraba State",
         "capital":"Jalingo",
+        "state code": "TA",
         "slogan":"Nature's Gift to the Nation",
         "id": 35
       }
@@ -318,6 +353,7 @@
       "state": {
         "name": "Yobe State",
         "capital":"Damaturu",
+        "state code": "YO",
         "slogan":"Pride of the Sahel",
         "id": 36
       }
@@ -327,6 +363,7 @@
       "state": {
         "name": "Zamfara State",
         "capital":"Guasau",
+        "state code": "ZA",
         "slogan":"Farming is our Pride",
         "id": 37
       }
